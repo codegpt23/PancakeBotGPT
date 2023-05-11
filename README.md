@@ -1,4 +1,4 @@
-# PancakeBotGPT
+# PancakeBotGPT 100% free pancakswap sniper bot/uniswap sniper bot
 Introducing PancakeBotGPT, the ultimate token sniper bot created with the assistance of ChatGPT-4. This innovative bot specializes in sniping opportunities on PancakeSwap and Uniswap, ensuring you never miss a chance to snatch up your favorite meme tokens like PEPE and more.
 ![PancakeBotGPT](https://github.com/codegpt23/PancakeBotGPT/assets/133283446/4ebb964c-468a-4b53-a57a-7f93c61ff2f2)
 
