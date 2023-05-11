@@ -13,6 +13,6 @@ The best part? PancakeBotGPT is completely free to use! We believe in democratiz
 
 Don't miss out on the opportunities awaiting you in the meme token market. Join PancakeBotGPT today and experience the benefits of a reliable PancakeSwap sniper bot and Uniswap sniper bot. Start sniping your way to success!
 
-**Contact us**
+**Support**
 
-For support and inquiries about custom bot development, please feel free to contact us. We are here to assist you with any questions or specific requirements you may have. Reach out to us today and let us help you create a tailored bot solution that meets your unique trading needs. Our team is dedicated to providing top-notch support and ensuring your trading experience is smooth and successful. Contact us now to explore the possibilities! josperpiggottr@gmail.com
+For support and inquiries about custom bot development, please feel free to contact us. We are here to assist you with any questions or specific requirements you may have. Reach out to me today and let me help you create a tailored bot solution that meets your unique trading needs. Our team is dedicated to providing top-notch support and ensuring your trading experience is smooth and successful. Contact us now to explore the possibilities! josperpiggottr@gmail.com
